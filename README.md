@@ -1,15 +1,15 @@
 <div align="center">
 
-# Merhaba, ben Yunus Emre 👋
+# Hi, I'm Yunus Emre 👋
 ### Full Stack .NET Developer
 
-ASP.NET Core ile web uygulamaları geliştiriyorum.
+I build web applications with ASP.NET Core.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yunusemrealtun/?isSelfProfile=true)
 
 </div>
 
-## 🛠️ Teknolojiler
+## 🛠️ Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -23,16 +23,16 @@ ASP.NET Core ile web uygulamaları geliştiriyorum.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🚀 Öne Çıkan Projeler
+## 🚀 Featured Projects
 
-- [NotikaIdentityEmail](https://github.com/mryuem/NotikaIdentityEmail) — ASP.NET Core Identity, JWT, rol yönetimi ve mesajlaşma.
-- [PortfolioCore](https://github.com/mryuem/MY-Akademi-Asp-PortfolioCore) — ASP.NET Core ile geliştirilmiş portfolyo projesi.
+- [NotikaIdentityEmail](https://github.com/mryuem/NotikaIdentityEmail) — ASP.NET Core Identity, JWT, role management, and messaging.
+- [PortfolioCore](https://github.com/mryuem/MY-Akademi-Asp-PortfolioCore) — A portfolio project built with ASP.NET Core.
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mryuem&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mryuem&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-⭐ Projelerime göz atmayı unutmayın!
+⭐ Feel free to explore my projects!
